@@ -1,0 +1,11 @@
+<server>
+
+	<logFile>C:\EclipseWorkspaces\RestApiServer\server.log</logFile>
+
+	<targetPathPrefix>C:\Temp\unique_</targetPathPrefix>
+
+	<host>localhost</host>
+
+	<port>8080</port>
+
+</server>
